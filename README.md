@@ -1,4 +1,4 @@
-# Bachelor THesis
+# Bachelor Thesis
 ## Evaluating Standalone Classification Decision Trees
 ### A Performance – Explainability Trade-off
 
